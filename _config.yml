@@ -1,0 +1,14 @@
+layout_spectrum: 0.4197761
+color:
+  saturation: 0.5415112
+  brandStrength: 0.5344724
+  lightness: 0.7653918
+  rhythmicContrast: 0.3936567
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.9860075
+name: 'Nyman Technology, Incorporated'
