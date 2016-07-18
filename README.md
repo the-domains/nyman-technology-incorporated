@@ -1,0 +1,1 @@
+# nyman-technology-incorporated
